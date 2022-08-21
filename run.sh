@@ -29,7 +29,7 @@ then
 bash .revanced-builder.sh reinstall
 fi
 
-If [ $mrrm = e ] || [ $mrrm = E ]
+if [ $mrrm = e ] || [ $mrrm = E ]
 then
 echo -e " SEE U "
 reset
