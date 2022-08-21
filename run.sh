@@ -32,6 +32,7 @@ fi
 if [ $mrrm = e ] || [ $mrrm = E ]
 then
 echo -e " SEE U "
+sleep 3
 reset
 clear
 exit
