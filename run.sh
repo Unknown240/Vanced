@@ -28,3 +28,11 @@ if [ $mrrm = 3 ] || [ $mrrm = 3 ]
 then
 bash .revanced-builder.sh reinstall
 fi
+
+If [ $mrrm = e ] || [ $mrrm = E ]
+then
+echo -e " SEE U "
+reset
+clear
+exit
+fi
