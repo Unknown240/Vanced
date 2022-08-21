@@ -32,4 +32,4 @@ If you are on a Android, Just run command `bash run.sh`
 
 ## Note
 
-Can't Auto Login with Google
+Can't Auto Login with Google, Must login manually with username & password.
