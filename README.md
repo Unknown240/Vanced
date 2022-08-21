@@ -5,14 +5,14 @@ Credit : https://github.com/reisxd/
 Tools mempermudah pembuatan Vanced & Patch
 
 Isi Tools :
-Youtube Vanced
-Youtube Music
-Twitter
-Reddit
-WarnWetter
+Youtube Vanced, 
+Youtube Music, 
+Twitter, 
+Reddit, 
+WarnWetter, 
 TikTok
 
-Recommended Use Termux From : [Github] (https://github.com/termux/termux-app/releases). / [F-Droid] (https://f-droid.org/en/packages/com.termux/)
+Recommended Use Termux From : [Github](https://github.com/termux/termux-app/releases). / [F-Droid](https://f-droid.org/en/packages/com.termux/)
 
 ## ReVanced Builder
 
