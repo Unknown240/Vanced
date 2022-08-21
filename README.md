@@ -4,7 +4,7 @@ Credit : https://github.com/reisxd/
 
 Tools mempermudah pembuatan Vanced & Patch
 
-Isi Tools :
+Tools :
 Youtube Vanced, 
 Youtube Music, 
 Twitter, 
@@ -29,3 +29,7 @@ If you plan to use it from source, you'll also require [NodeJS >=13](https://nod
 If you are on a PC, download the latest executable from [here](https://github.com/reisxd/revanced-builder/releases/latest) or if you are on a Android device, please see [this](https://github.com/reisxd/revanced-builder/wiki/How-to-use-revanced-builder-on-Android).
 
 If you are on a Android, Just run command `bash run.sh`
+
+## Note
+
+Can't Auto Login with Google
