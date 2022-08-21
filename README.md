@@ -28,4 +28,4 @@ If you plan to use it from source, you'll also require [NodeJS >=13](https://nod
 
 If you are on a PC, download the latest executable from [here](https://github.com/reisxd/revanced-builder/releases/latest) or if you are on a Android device, please see [this](https://github.com/reisxd/revanced-builder/wiki/How-to-use-revanced-builder-on-Android).
 
-If you afe on a Android, Just run command 'bash run.sh'
+If you afe on a Android, Just run command `bash run.sh`
